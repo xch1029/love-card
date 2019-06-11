@@ -12,3 +12,5 @@
 
 ## 我fork这个项目没有其他目的，为了学习pull request
 
+## 在未开发之前，我就有个好点点子，所以先提交个pullrequest
+ commit again
